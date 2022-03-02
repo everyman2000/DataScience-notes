@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "9e0b218c7371a570",
+    "type": "split",
+    "children": [
+      {
+        "id": "465a6c4109bd0e2c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Data Scientist's Toolbox/VCS/GitHub and Git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46770d78a538022e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd3ff83e69bf06b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a5b335de5eaa83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "41a367a8a2e6d582",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2043d78b1865a419",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1bd6479e308ee0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70bdbc50dc63167f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Data Scientist's Toolbox/VCS/GitHub and Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "465a6c4109bd0e2c",
+  "lastOpenFiles": [
+    "The Data Scientist's Toolbox/VCS/GitHub and Git.md",
+    "The Data Scientist's Toolbox/VCS/GIT terms.md",
+    "R Programming/Subsetting.md",
+    "R Programming/R Objects, Attributes and Data Types.md",
+    "R Programming/Reading and Writing Data.md",
+    "R Programming/R Console Input and Evaluation.md",
+    "R Programming/Interfaces to the Outside World.md",
+    "The Data Scientist's Toolbox/Data Science Questions/Experimental Design.md",
+    "The Data Scientist's Toolbox/Data Science Questions/Data Analysis.md",
+    "The Data Scientist's Toolbox/Data Science Questions/Big Data.md"
+  ]
+}
