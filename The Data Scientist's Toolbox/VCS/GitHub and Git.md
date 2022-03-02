@@ -12,5 +12,6 @@ git commit -m "Initial commit"
 - Push the local repo to GitHub
 	```bash
 	git remote add origin https://github.com/a-bhattacharya/ProjectName.git
+	git branch -M main
 	git push -u origin master
 	```
